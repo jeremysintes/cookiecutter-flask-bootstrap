@@ -32,11 +32,27 @@ Features
 
 * TODO
 
+Quickstart
+----------
+-  Create a developpement environment (recommended):
+   ``conda env create -n NAME_OF_THE_PROJECT``
+
+-  Activate the developpement environment :
+   ``activate NAME_OF_THE_PROJECT``
+
+-  Install the required librairies : (platform\_demo)$
+   ``pip install -r requirements``
+
+ -  Activate the developpement environment :
+   ``activate NAME_OF_THE_PROJECT``
+
+-  Run the application : (platform\_demo)$ ``python run.py``
+
 Credits
 ---------
 
-This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
+This package was created with Cookiecutter_ and the `jeremysintes/cookiecutter-pypackage`_ project template.
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+.. _`jeremysintes/cookiecutter-pypackage`: https://github.com/jeremysintes/cookiecutter-pypackage
 
